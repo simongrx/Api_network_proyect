@@ -7,7 +7,7 @@
 **Members**
 
 - Nicolas Peña Irurita
-- member
+- Simón García
 - member
 - member
 - Joan Mateo Bermudez Collazos
