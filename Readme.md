@@ -6,7 +6,7 @@
 
 **Members**
 
-- member
+- Nicolas Peña Irurita
 - member
 - member
 - member
