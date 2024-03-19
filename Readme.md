@@ -7,7 +7,7 @@
 **Members**
 
 - Nicolas Peña Irurita
-- member
+- Kevin andres muñoz
 - member
 - member
 - Joan Mateo Bermudez Collazos
